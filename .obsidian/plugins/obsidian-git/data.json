@@ -29,7 +29,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "",
+  "gitDir": "/home/brayd/Projects/university-notes/.git",
   "showFileMenu": true,
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
