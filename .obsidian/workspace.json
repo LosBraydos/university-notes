@@ -11,14 +11,15 @@
             "id": "759679609ab1e5bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Thermodynamics/4D Thermochemistry.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Thermodynamics/4D Thermochemistry.md",
+                "bFile": "Thermodynamics/4D Thermochemistry.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "4D Thermochemistry"
+              "icon": "diff",
+              "title": "Diff: 4D Thermochemistry"
             }
           }
         ]
