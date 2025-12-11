@@ -11,15 +11,14 @@
             "id": "759679609ab1e5bd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Thermodynamics/4D Thermochemistry.md",
-                "bFile": "Thermodynamics/4D Thermochemistry.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Thermodynamics/4D Thermochemistry.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 4D Thermochemistry"
+              "icon": "lucide-file",
+              "title": "4D Thermochemistry"
             }
           }
         ]
@@ -199,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,9 +216,9 @@
   "active": "759679609ab1e5bd",
   "lastOpenFiles": [
     "Thermodynamics/4D Thermochemistry.md",
+    "Thermodynamics/Laws of Thermodynamics.md",
     "Thermodynamics/4C Enthalpy.md",
     "Thermodynamics/Table of Constants and Formulae.md",
-    "Thermodynamics/Laws of Thermodynamics.md",
     "Thermodynamics/4A Work and Heat.md",
     "Thermodynamics/4B Internal Energy.md",
     "Images/Pasted image 20251210154201.png",
