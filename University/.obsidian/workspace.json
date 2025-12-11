@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/4D Thermochemistry.md",
+                "file": "Foundations of Chemistry/Thermodynamics/4A Work and Heat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4D Thermochemistry"
+              "title": "4A Work and Heat"
             }
           }
         ]
@@ -182,19 +182,9 @@
               "icon": "lucide-list",
               "title": "Outline of 4D Thermochemistry"
             }
-          },
-          {
-            "id": "10e428d63e023259",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -209,34 +199,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "759679609ab1e5bd",
   "lastOpenFiles": [
-    "Thermodynamics/4D Thermochemistry.md",
-    "Thermodynamics/Laws of Thermodynamics.md",
-    "Thermodynamics/4C Enthalpy.md",
-    "Thermodynamics/Table of Constants and Formulae.md",
-    "Thermodynamics/4A Work and Heat.md",
-    "Thermodynamics/4B Internal Energy.md",
-    "Images/Pasted image 20251210154201.png",
-    "Images/Pasted image 20251210151828.png",
-    "Images/Pasted image 20251210144813.png",
-    "Images/Pasted image 20251208131942.png",
+    "Foundations of Chemistry/Thermodynamics/Table of Constants and Formulae.md",
+    "Foundations of Chemistry/Thermodynamics/Laws of Thermodynamics.md",
+    "Foundations of Chemistry/Thermodynamics/4C Enthalpy.md",
+    "Foundations of Chemistry/Thermodynamics/4A Work and Heat.md",
+    "Untitled.md",
+    "Foundations of Chemistry",
+    "24-11.md",
+    "Biological Chemistry/Diet, Exercise, and Health.md",
+    "Biological Chemistry/Science Theory.md",
+    "Foundations of Chemistry/Thermodynamics/4D Thermochemistry.md",
+    "Biological Chemistry/Modern Forensics/Intro.md",
+    "Biological Chemistry/Modern Forensics",
+    "Biological Chemistry/Intro to spectroscopy.md",
+    "Biological Chemistry/Medicines of Tomorrow.md",
+    "Biological Chemistry/Drug development - theory and background.md",
+    "Biological Chemistry/25-09-03 Lab Theory and Safety.md",
+    "Biological Chemistry/25-09-05 Statistics and Chemometrics.md",
+    "Biological Chemistry/25-09-04 Report Writing.md",
+    "Biological Chemistry/25-09-04 Abstract.md",
+    "Biological Chemistry/25-09-02 The Language of Life.md",
+    "Biological Chemistry/25-09-01 Li.Sc. Intro.md",
+    "Biological Chemistry",
+    "Biological Chemistry/Litterature Study.md",
+    "Biological Chemistry/Energy from nutrients.md",
+    "Life Science",
+    "Images/Pasted image 20250923131428.png",
+    "Images/Pasted image 20250923131220.png",
+    "Images/Pasted image 20250923131142.png",
+    "Images/Pasted image 20250923130548.png",
+    "Images/Pasted image 20251006092020.png",
+    "Images/Pasted image 20250923142758.png",
+    "Images/Pasted image 20250923141833.png",
+    "Images/Pasted image 20250923135616.png",
+    "Images/Pasted image 20250923134925.png",
+    "Images/Pasted image 20250923134348.png",
+    "Foundations of Chemistry/Thermodynamics/4B Internal Energy.md",
     "Thermodynamics/reversible process.md",
-    "Images/Pasted image 20251203221422.png",
     "Thermodynamics/Open system.md",
-    "Images/Pasted image 20251203162513.png",
-    "Images/Pasted image 20251203155016.png",
-    "Images/Pasted image 20251203155500.png",
-    "Images/Pasted image 20251203155136.png",
     "Images",
-    "Pasted image 20251203154940.png",
     "Thermodynamics/4A. Work and Heat/Untitled.md",
     "Thermodynamics/4A. Work and Heat",
-    "Welcome.md",
-    "Thermodynamics"
+    "Foundations of Chemistry/Thermodynamics"
   ]
 }
