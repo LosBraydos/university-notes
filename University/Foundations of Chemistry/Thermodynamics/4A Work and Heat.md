@@ -66,4 +66,5 @@ Heat capacity is an extensive property, the more you have of something, the more
 As an example, for water the specific and molar heat capacities are, respectively, $4.18J\cdot (°C)^{-1}\cdot g^{-1}$ and $75J\cdot K^{-1}\cdot mol^{-1}$.
 ![[Pasted image 20251208131942.png]]
 
-
+##### Calorimetry
+$q=-C_{cal}\Delta T$

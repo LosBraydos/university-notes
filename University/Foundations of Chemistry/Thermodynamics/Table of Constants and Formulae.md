@@ -6,7 +6,7 @@
 | 1 L * atm | 101,325 J                            |        |     |     |
 |           |                                      |        |     |     |
 | 1 Torr    | 1/760 atm = 101 325/760 Pa = ~133 Pa | "mmHg" |     |     |
-
+Gas constant $R=8.314J\cdot K^{-1}\cdot mol^{-1}$
 
 ##### Definitions of concepts
 
