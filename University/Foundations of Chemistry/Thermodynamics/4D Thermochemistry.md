@@ -1,9 +1,29 @@
-##### Reaction Enthalpy
+#### Reaction Enthalpy
+Chemical reactions are associated with a change in energy, either released or absorbed.
+Consider the combustion enthalpy of methane:
+$$\ce
+{CH_{4}(g) + 2O_{2}(g) \to CO_{2}(g) + 2H_{2}O(l)}
+\qquad\Delta H = -890\ {kJ} $$
+
+
 
 
 ##### Relation between $\Delta H$ and $\Delta U$
 
+
 Assuming an ideal gas:$$\Delta H=\Delta U+\Delta n_{gas}RT$$where $\Delta n_{gas}=n_2\left(g\right)-n_1\left(g\right)$.
+
+
+##### Standard Reaction Enthalpies and Standard States
+The heat released or absorbed in a chemical reactions depends on the physical states of each substance. For the combustion of ethene:
+$$ \ce
+{C_{2}H_{4}(g) + 3O_{2}(g) \to 2CO_{2}(g) + 2H_{2}O(g) \qquad \Delta H= -1323 kJ}
+$$
+$$ \ce
+{C_{2}H_{4}(g) + 3O_{2}(g) \to 2CO_{2}(g) + 2H_{2}O(l) \qquad \Delta H= -1411 kJ}
+$$
+When water vapor is produced, heat is stored in the system to produce the vapor and the reaction enthalpy is lower when compared liquid water forming (compare to how heat must be added to a system to drive a phase transition).
+The standard reaction enthalpy, $\Delta H^0$, is the reaction enthalpy of a reaction where reactants in their standard states form products also in their standard states. Standard states refers to when substances are in their pure form at exactly 1 bar. A solute is in its standard state when the concentration is 1 mol/L. A standard state of value $X$ is denoted $X^0$. 
 
 
 Hess's Law:
